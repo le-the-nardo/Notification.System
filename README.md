@@ -35,7 +35,8 @@ Notification.System
   |-- Infrastructure
   |-- Presentation
   |-- WebApi
-|-- unit tests
+Notification.System.Tests
+|-- tests
 ```
 
 ## Contributing
