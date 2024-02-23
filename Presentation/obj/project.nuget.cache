@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vyelFaazeZryx1TloFs8+sCSW1gw3b+bVFC465XVpjLlvZMZIWDTlfxHiHTwb02jyVxXWj6wY+oOlr47j7jvbA==",
+  "success": true,
+  "projectFilePath": "/Users/leonardo.gomes/RiderProjects/Notification.System/Presentation/Presentation.csproj",
+  "expectedPackageFiles": [
+    "/Users/leonardo.gomes/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/leonardo.gomes/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.0/fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "/Users/leonardo.gomes/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/leonardo.gomes/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/leonardo.gomes/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

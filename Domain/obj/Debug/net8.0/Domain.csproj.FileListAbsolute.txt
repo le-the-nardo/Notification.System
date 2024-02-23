@@ -1,0 +1,11 @@
+/Users/leonardo.gomes/RiderProjects/Notification.System/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/leonardo.gomes/RiderProjects/Notification.System/Domain/bin/Debug/net8.0/Domain.dll
+/Users/leonardo.gomes/RiderProjects/Notification.System/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/leonardo.gomes/RiderProjects/Notification.System/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardo.gomes/RiderProjects/Notification.System/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/leonardo.gomes/RiderProjects/Notification.System/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/leonardo.gomes/RiderProjects/Notification.System/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/leonardo.gomes/RiderProjects/Notification.System/Domain/obj/Debug/net8.0/Domain.dll
+/Users/leonardo.gomes/RiderProjects/Notification.System/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/leonardo.gomes/RiderProjects/Notification.System/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/leonardo.gomes/RiderProjects/Notification.System/Domain/obj/Debug/net8.0/ref/Domain.dll
