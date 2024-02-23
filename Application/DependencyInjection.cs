@@ -16,6 +16,7 @@ public static class DependencyInjection
         services.AddMediatR(configuration => configuration.RegisterServicesFromAssembly(assembly));
         services.AddValidatorsFromAssembly(assembly);
         services.AddScoped<ISendMessageUseCase, SendMessageUseCase>();
+        services.AddScoped<IGetLogMessagesUseCase, GetLogMessagesUseCase>();
         
         return services;
     }

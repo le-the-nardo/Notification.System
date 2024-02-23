@@ -57,7 +57,6 @@ public class SendMessageUseCase : ISendMessageUseCase
                 $"MessageId: {message.Id} - UserId: {userToNotify.Id} - Category message: {message.Category!.Name} - At: {DateTime.Now}");
         }
 
-
-        return "Sucesso";
+        return "Operation succeeded";
     }
 }

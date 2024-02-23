@@ -5,7 +5,7 @@ namespace Infrastructure.Repositories;
 //Using files for demonstration purposes only. For larger applications use a database instead
 public class FileRepository : IFileRepository
 {
-    const string _path = "/Users/leonardo.gomes/RiderProjects/Teste/teste1.rtf";
+    const string _path = "/Users/leonardo.gomes/RiderProjects/Teste/teste1.txt";
     public void SaveNotification(string informationToSave)
     {
         try
@@ -23,10 +23,10 @@ public class FileRepository : IFileRepository
         }
     }
 
-    public async Task<string> GetAllNotifications()
+    public async Task<string[]> GetAllNotifications()
     {
         string[] lines = await File.ReadAllLinesAsync(_path);
         Array.Reverse(lines);
-        return lines.First();
+        return lines;
     }
 }

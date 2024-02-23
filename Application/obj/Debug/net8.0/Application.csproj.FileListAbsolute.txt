@@ -13,3 +13,4 @@
 /Users/leonardo.gomes/RiderProjects/Notification.System/Application/obj/Debug/net8.0/refint/Application.dll
 /Users/leonardo.gomes/RiderProjects/Notification.System/Application/obj/Debug/net8.0/Application.pdb
 /Users/leonardo.gomes/RiderProjects/Notification.System/Application/obj/Debug/net8.0/ref/Application.dll
+/Users/leonardo.gomes/RiderProjects/Notification.System/Application/obj/Debug/net8.0/Application.sourcelink.json

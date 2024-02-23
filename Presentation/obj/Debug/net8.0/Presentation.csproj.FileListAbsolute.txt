@@ -17,3 +17,4 @@
 /Users/leonardo.gomes/RiderProjects/Notification.System/Presentation/bin/Debug/net8.0/Infrastructure.pdb
 /Users/leonardo.gomes/RiderProjects/Notification.System/Presentation/bin/Debug/net8.0/Domain.pdb
 /Users/leonardo.gomes/RiderProjects/Notification.System/Presentation/obj/Debug/net8.0/Presentation.csproj.CopyComplete
+/Users/leonardo.gomes/RiderProjects/Notification.System/Presentation/obj/Debug/net8.0/Presentation.sourcelink.json

@@ -53,3 +53,4 @@
 /Users/leonardo.gomes/RiderProjects/Notification.System/WebApi/obj/Debug/net8.0/WebApi.pdb
 /Users/leonardo.gomes/RiderProjects/Notification.System/WebApi/obj/Debug/net8.0/WebApi.genruntimeconfig.cache
 /Users/leonardo.gomes/RiderProjects/Notification.System/WebApi/obj/Debug/net8.0/ref/WebApi.dll
+/Users/leonardo.gomes/RiderProjects/Notification.System/WebApi/obj/Debug/net8.0/WebApi.sourcelink.json
