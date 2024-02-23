@@ -17,29 +17,20 @@ The system is designed to categorize messages and notify users subscribed to spe
 
 ## Technologies
 - C# .Net Core 8
-- Entity Framework Core
 - ASP.NET Core Web API
-- (Add any other technologies used in the project)
+- Dependency Injection
+- Design Pattners
 
 ## Architecture
 The project adheres to the principles of Domain-Driven Design (DDD) and Clean Architecture to ensure maintainability, scalability, and flexibility.
 
+
 Notification.System
 |-- Application
-  |-- Interfaces
-  |-- UseCases
 |-- Domain
-  |-- Entities
-  |-- Mocks
-  |-- 
 |-- Infrastructure
-  |-- Models
-  |-- Repositories
-  |-- Services
 |-- Presentation
 |-- WebApi
-  |-- Controllers
-  |-- DTOs
 
 ## Contributing
 Feel free to contribute by opening issues, providing feedback, or submitting pull requests.
