@@ -24,13 +24,14 @@ The system is designed to categorize messages and notify users subscribed to spe
 ## Architecture
 The project adheres to the principles of Domain-Driven Design (DDD) and Clean Architecture to ensure maintainability, scalability, and flexibility.
 
-
+```
 Notification.System
 |-- Application
 |-- Domain
 |-- Infrastructure
 |-- Presentation
 |-- WebApi 
+```
 
 ## Contributing
 Feel free to contribute by opening issues, providing feedback, or submitting pull requests.
