@@ -14,23 +14,28 @@ The system is designed to categorize messages and notify users subscribed to spe
 - Multi-channel notification delivery (SMS, Email, Push Notification)
 - RESTful API with two main endpoints: `POST /api/Message` and `GET /api/Messages`
 - Built with C# .Net Core 8, following Domain-Driven Design (DDD) and Clean Architecture principles
+- Clean code to ensure code readability
+- Unit testing to ensure code quality
 
 ## Technologies
 - C# .Net Core 8
 - ASP.NET Core Web API
 - Dependency Injection
 - Design Pattners
+- Unit testing with xUnit and Moq
 
 ## Architecture
 The project adheres to the principles of Domain-Driven Design (DDD) and Clean Architecture to ensure maintainability, scalability, and flexibility.
 
 ```
 Notification.System
-|-- Application
-|-- Domain
-|-- Infrastructure
-|-- Presentation
-|-- WebApi 
+|-- src
+  |-- Application
+  |-- Domain
+  |-- Infrastructure
+  |-- Presentation
+  |-- WebApi
+|-- unit tests
 ```
 
 ## Contributing
