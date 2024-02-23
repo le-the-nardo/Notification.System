@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UjDNHcCgAAQ9WX8nAO0x1VJcMM7r1usBMXdPWnlJo6RYGSwn0wV6jSfjzYSBFWHpbhOSyZO29pqoePwQNWbWcw==",
+  "dgSpecHash": "sINrjArTA32BaBSIShpuFySZ+/REuV9zOgwHB5bnGzCYOIiysclZrYy02yo3HGw6SV2wfRBStFMsUKvoeCX8wQ==",
   "success": true,
-  "projectFilePath": "/Users/leonardo.gomes/RiderProjects/Notification.System/Domain/Domain.csproj",
+  "projectFilePath": "/Users/leonardo.gomes/Documents/GitHub/Notification.System/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

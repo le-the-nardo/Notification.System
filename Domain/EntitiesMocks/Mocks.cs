@@ -7,7 +7,7 @@ public static class Mocks
     private static List<Category> _mockedCategories =
     [
         new Category { Id = 1, Name = "Sports" },
-        new Category { Id = 2, Name = "Finance" },
+        new Category { Id = 2, Name = "Finances" },
         new Category { Id = 3, Name = "Movies" }
     ];
 

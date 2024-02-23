@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WOYNWpmWd+MQ8E6SQvNffajf9rEXQTX//qhPNC15K3kF0OVxEefJ5YehSaCE26ZQF1nJyuxvXNHrTMySJDhQ4Q==",
+  "dgSpecHash": "M2bk0DC3MIAx1jBksl7WyzfD1S0SNxvfAt6zf6eo8tsAxXjQVNVPpuqtmklWZ4gRXnR/ZuXSSsiMpD1hMOUkqw==",
   "success": true,
-  "projectFilePath": "/Users/leonardo.gomes/RiderProjects/Notification.System/Infrastructure/Infrastructure.csproj",
+  "projectFilePath": "/Users/leonardo.gomes/Documents/GitHub/Notification.System/Infrastructure/Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/leonardo.gomes/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
     "/Users/leonardo.gomes/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.0/fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",

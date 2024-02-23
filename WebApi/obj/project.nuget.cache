@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nlEeP1XYDGdnxg9p+5ewnPEbQnNCV56TRBZbYR+Bck6lMD4FfVQP5TLMYaXS9OP5/c1pxgSsg4IK7kinag4W5g==",
+  "dgSpecHash": "o04TKe/PjtfgnhM4wpH5SaV3smlQ0tciiyWN+YzezC7uYmsrax85XcmdjcZ+2xIYAWH1B4PC/sCudRMX8dMy9w==",
   "success": true,
-  "projectFilePath": "/Users/leonardo.gomes/RiderProjects/Notification.System/WebApi/WebApi.csproj",
+  "projectFilePath": "/Users/leonardo.gomes/Documents/GitHub/Notification.System/WebApi/WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/leonardo.gomes/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
     "/Users/leonardo.gomes/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.0/fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",

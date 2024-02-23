@@ -254,11 +254,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leonardo.gomes/RiderProjects/Notification.System/Presentation/Presentation.csproj",
+      "projectUniqueName": "/Users/leonardo.gomes/Documents/GitHub/Notification.System/Presentation/Presentation.csproj",
       "projectName": "Presentation",
-      "projectPath": "/Users/leonardo.gomes/RiderProjects/Notification.System/Presentation/Presentation.csproj",
+      "projectPath": "/Users/leonardo.gomes/Documents/GitHub/Notification.System/Presentation/Presentation.csproj",
       "packagesPath": "/Users/leonardo.gomes/.nuget/packages/",
-      "outputPath": "/Users/leonardo.gomes/RiderProjects/Notification.System/Presentation/obj/",
+      "outputPath": "/Users/leonardo.gomes/Documents/GitHub/Notification.System/Presentation/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leonardo.gomes/.nuget/NuGet/NuGet.Config"
@@ -273,11 +273,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/leonardo.gomes/RiderProjects/Notification.System/Application/Application.csproj": {
-              "projectPath": "/Users/leonardo.gomes/RiderProjects/Notification.System/Application/Application.csproj"
+            "/Users/leonardo.gomes/Documents/GitHub/Notification.System/Application/Application.csproj": {
+              "projectPath": "/Users/leonardo.gomes/Documents/GitHub/Notification.System/Application/Application.csproj"
             },
-            "/Users/leonardo.gomes/RiderProjects/Notification.System/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/Users/leonardo.gomes/RiderProjects/Notification.System/Infrastructure/Infrastructure.csproj"
+            "/Users/leonardo.gomes/Documents/GitHub/Notification.System/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/Users/leonardo.gomes/Documents/GitHub/Notification.System/Infrastructure/Infrastructure.csproj"
             }
           }
         }

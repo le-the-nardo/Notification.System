@@ -5,7 +5,7 @@ namespace Infrastructure.Repositories;
 //Using files for demonstration purposes only. For larger applications use a database instead
 public class FileRepository : IFileRepository
 {
-    const string _path = "/Users/leonardo.gomes/RiderProjects/Teste/teste1.txt";
+    const string _path = "/Users/leonardo.gomes/Documents/GitHub/Notification.System/logs.txt";
     public void SaveNotification(string informationToSave)
     {
         try
